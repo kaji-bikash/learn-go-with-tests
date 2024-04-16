@@ -1,8 +1,6 @@
 # Learn Go with Tests
 
-<div style="text-align: center">
-  <img src="red-green-blue-gophers-smaller.png" />
-</div>
+![](red-green-blue-gophers-smaller.png)
 
 [Art by Denise](https://twitter.com/deniseyu21)
 
@@ -10,10 +8,10 @@
 
 I am proud to offer this resource for free, but if you wish to give some appreciation
 
-- [Tweet me @quii](https://twitter.com/quii)
-- <a rel="me" href="https://mastodon.cloud/@quii">Mastodon</a>
-- [Buy me a coffee](https://www.buymeacoffee.com/quii)
-- [Sponsor me on GitHub](https://github.com/sponsors/quii)
+* [Tweet me @quii](https://twitter.com/quii)
+* [Mastodon](https://mastodon.cloud/@quii)
+* [Buy me a coffee](https://www.buymeacoffee.com/quii)
+* [Sponsor me on GitHub](https://github.com/sponsors/quii)
 
 ## Learn test-driven development with Go
 
@@ -23,11 +21,11 @@ I am proud to offer this resource for free, but if you wish to give some appreci
 
 Translations:
 
-- [中文](https://studygolang.gitbook.io/learn-go-with-tests)
-- [Português](https://larien.gitbook.io/aprenda-go-com-testes/)
-- [日本語](https://andmorefine.gitbook.io/learn-go-with-tests/)
-- [한국어](https://miryang.gitbook.io/learn-go-with-tests/)
-- [Türkçe](https://halilkocaoz.gitbook.io/go-programlama-dilini-ogren/)
+* [中文](https://studygolang.gitbook.io/learn-go-with-tests)
+* [Português](https://larien.gitbook.io/aprenda-go-com-testes/)
+* [日本語](https://andmorefine.gitbook.io/learn-go-with-tests/)
+* [한국어](https://miryang.gitbook.io/learn-go-with-tests/)
+* [Türkçe](https://halilkocaoz.gitbook.io/go-programlama-dilini-ogren/)
 
 ## Background
 
@@ -82,8 +80,12 @@ Taking my experience of learning with a group and my own personal way I am going
 * Some experience with programming. Understanding of concepts like `if`, variables, functions etc.
 * Comfortable using the terminal
 
-## Feedback
+## Feedback----222
 
 * Add issues/submit PRs [here](https://github.com/quii/learn-go-with-tests) or [tweet me @quii](https://twitter.com/quii)
+
+### New Change
+
+\---------hey
 
 [MIT license](https://github.com/quii/learn-go-with-tests/blob/main/LICENSE.md)
