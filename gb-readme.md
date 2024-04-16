@@ -86,6 +86,7 @@ Taking my experience of learning with a group and my own personal way I am going
 
 ### New Change
 
-\---------hey
+\---------hey - Added from Gitbook
+---added in GitHub
 
 [MIT license](https://github.com/quii/learn-go-with-tests/blob/main/LICENSE.md)
